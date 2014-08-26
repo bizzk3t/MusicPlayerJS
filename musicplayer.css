@@ -1,0 +1,36 @@
+.js-music-player {
+    width: 100%;
+}
+
+.player {
+    position: relative;
+    width: 100%;
+    height: 75px;
+    overflow: auto;
+    border: 5px solid black;
+
+}
+
+.title {
+    font-size: x-large;
+    float: left;
+}
+
+.play-pause {
+    width: 75px;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left 0px;
+}
+
+.visual {
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.canvas {
+    position: absolute;
+}
