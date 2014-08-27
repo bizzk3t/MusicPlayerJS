@@ -1,6 +1,6 @@
 /*
-    MusicPlayerJS is a audio player for the standard HTML file formats.
-    It is intended to improve customization of the standard audio player.
+    A customizeable music player for those who prefer something more than
+    the default player.
 
     Copyright (C) 2014  William Harrison
 
